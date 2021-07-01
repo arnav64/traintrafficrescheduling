@@ -1,5 +1,5 @@
 # traintrafficrescheduling
-This project was done as a part of CIS 189 with Charles Cunningham.
+This project was done as a part of CIS 189: Solving Hard Problems in Practice at Penn with Charles Cunningham.
 
 The problem specification and relevant data can be found at this link: https://www.csplib.org/Problems/prob078/
 
