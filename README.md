@@ -1,5 +1,4 @@
 # traintrafficrescheduling
-Implementing a Train Traffic Rescheduling Algorithm Described on CSPLib 
 This project was done as a part of CIS 189 with Charles Cunningham.
 
 The problem specification and relevant data can be found at this link: https://www.csplib.org/Problems/prob078/
